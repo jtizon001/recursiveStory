@@ -1,0 +1,3 @@
+/Users/jtizon/ClionProjects/reclLab10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jtizon/ClionProjects/reclLab10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jtizon/ClionProjects/reclLab10/cmake-build-debug/CMakeFiles/reclLab10.dir
